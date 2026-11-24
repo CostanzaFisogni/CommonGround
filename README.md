@@ -20,12 +20,12 @@
 
 <p align="center">
   <a href="https://canva.link/tbebb2f7oawreqe">Pitch deck</a> ·
-  <a href="#the-problem">Research</a> ·
-  <a href="#what-the-prototype-does">Features</a> ·
-  <a href="#run-it-locally">Run locally</a>
+  <a href="https://github.com/thelifeofcosty/CommonGround#the-problem">Research</a> ·
+  <a href="https://github.com/thelifeofcosty/CommonGround#what-the-prototype-does">Features</a> ·
+  <a href="https://github.com/thelifeofcosty/CommonGround#run-it-locally">Run locally</a>
 </p>
 
-Built by a team of seven for **MG4C3, London School of Economics** (2025/26).
+Built by a team of seven for at the ***London School of Economics** (2025/26).
 
 <!--
 SCREENSHOTS: uncomment this block ONLY after the four PNGs are committed to docs/screenshots/
@@ -149,7 +149,6 @@ npm run preview      # preview the production build
 To test on your phone on the same Wi-Fi: `npm run dev -- --host`, then open the network URL.
 
 
-
 ## Roadmap
 
 - [ ] Real calendar sync with availability-only sharing
@@ -165,4 +164,4 @@ To test on your phone on the same Wi-Fi: `npm run dev -- --host`, then open the 
 
 An academic prototype. All people, places and availability shown are fictional. Personas and quotes in project materials are illustrative.
 
-© 2026 CommonGround team. See [NOTICE.md](NOTICE.md).
+© 2026 Costanza [Surname] and the CommonGround team. See [NOTICE.md](NOTICE.md).
