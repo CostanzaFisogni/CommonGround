@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/cover.png" alt="CommonGround logo and app screens" width="820">
+  <img src="attributes common ground/cover.png" alt="CommonGround logo and app screens" width="820">
 </p>
 
 <h1 align="center">CommonGround</h1>
